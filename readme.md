@@ -4,30 +4,27 @@
 - Entrenar
 - Juntarme con amigos
 
-#### Meme Favorito
+#### Meme Favorito :laughing:
 
 ![valio_la_pena](https://cdn.dopl3r.com//media/memes_files/viernes-pero-a-que-costo-krxUC.jpg)
 
 #### Musica
 
-__*Genero Favorito*__
-    Genero de música favorito
+| __#__ | __*Top 5 Generos Favorito*__ | __*Top 5 Canciones Favoritas*__ |
+|:-------------------:|:-------------------:|:-----------------:|
+|1|Genero de música | Cancion - Artista|
+|2|Genero de música | Cancion - Artista|
+|3|Genero de música | Cancion - Artista|
+|4|Genero de música | Cancion - Artista|
+|5|Genero de música | Cancion - Artista|
 
-__*Top 5 Canciones Favoritas*__
-1. Cancion - Artista
-2. Cancion - Artista
-3. Cancion - Artista
-4. Cancion - Artista
-5. Cancion - Artista
 
 #### Peliculas
 
-__*Genero Favorito*__
-    Genero de música favorito
-
-__*Top 5 Peliculas Favoritas*__
-1. Nombre - Genero
-2. Nombre - Genero
-3. Nombre - Genero
-4. Nombre - Genero
-5. Nombre - Genero
+| __#__ | __*Top 5 Generos Favorito*__ | __*Top 5 Peliculas Favoritas*__ |
+|:-------------------:|:-------------------:|:-----------------:|
+|1|Genero de pelicula | Nombre |
+|2|Genero de pelicula | Nombre |
+|3|Genero de pelicula | Nombre |
+|4|Genero de pelicula | Nombre |
+|5|Genero de pelicula | Nombre |
